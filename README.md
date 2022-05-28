@@ -1,5 +1,4 @@
-# Software-Architechture
-# Patient Monitoring Service (pms)
+# Software Architechture: Patient Monitoring Service (pms)
 
 ## Task 1: 
 Part 1 of the project involves getting acquainted with the application case; defining Architecturally-Significant requirements (ASRs) in a structured Utility Tree and documenting some of them in further detail as Quality Attribute Scenarios (QASs).
